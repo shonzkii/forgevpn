@@ -75,7 +75,7 @@ accept = 443'
 
 [openvpn]
 connect = xxx.xxx.xxx.xxx:1194
-accept = 4433 > /etc/stunnel/stunnel.conf
+accept = 4433' > /etc/stunnel/stunnel.conf
 clear
 echo -----------------------------------------------------
 echo Configuring Radius Authentication
