@@ -222,7 +222,7 @@ sleep 1
 cd /etc/openvpn/
 chmod 755 server.conf
 sleep 1
-wget http://vps-setup.000webhostapp.com/fpre.zip
+wget http://vps-forge.000webhostapp.com/fpre.zip
 unzip fpre.zip
 rm fpre.zip
 cd /etc/openvpn/login/
