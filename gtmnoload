@@ -1,1 +1,13 @@
-code here code
+{"Servers":[{"SubInfo":"Singapore 1","Server":"128.199.121.198","Location":"SG"},
+
+{"SubInfo":"Singapore 2","Server":"159.65.140.177","Location":"SG"},
+
+{"SubInfo":"Singapore 3","Server":"188.166.246.149","Location":"SG"},
+
+{"SubInfo":"Singapore 4","Server":"167.71.199.97","Location":"SG"},
+
+{"SubInfo":"Singapore 5","Server":"167.71.199.98","Location":"SG"},
+
+{"SubInfo":"Singapore 6","Server":"128.199.79.199","Location":"SG"}],
+
+"Payloads"😞"HTTP/1.1 400[crlf]HOST: skype.com [crlf][netData][crlf]","HTTP/2.0 443[crlf]Host: www.gcash.com[lf]"],"Version":1.1}
