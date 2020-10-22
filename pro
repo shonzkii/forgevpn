@@ -1,5 +1,5 @@
 {
-  "ConfigVersion": 22.1,
+  "ConfigVersion": 22.2,
   "ConfigUpdateMsg": " ~ Fixed Servers! \n\n ~ Forge VPN",
   "WarningMsg": "Do not download or streaming \nThis is for Gaming only\nCaught will be ban permanently.",
   "SquidPort": "8888",
@@ -339,8 +339,8 @@
       "Sni": "♠💣▲👉♯♠♠☻♠▲♠♫♯▲▲👉♠♣♠👆♠💣",
       "Payload": "♦♣♦👆♦👉♦👉♦♫♦♣♫♦▲♀♠♣♠♦♠👉▲💣♯♪♠♟️▲👉♯♯♠♥♯♂♠♫▲👉♠♣♠👆♠💣♦♀♫●♠♪♠👆♯♣♯♦♫👆♯♀♠👆♯▲♯♦♫💣▲♀♫●♯♀♯▲♠👆♯♦♠👆♠♣♠👆♠♟️♫💣♫●♠♣♯▲♠♟️♠♠♫💣♦♪♠👆♯♣♯♦♣♂▲♀♠♣♠♦♠👉▲💣♯♪♠♟️▲👉♯♯♠♥♯♂♠♫▲👉♠♣♠👆♠💣♫●♠♣♯▲♠♟️♠♠♫💣♫♪▲💣♦👆♠👉♠♟️♠☻♠👉♠♫▲💣♦♪♠👆♯♣♯♦♣♂▲♀♠♣♠♦♠👉▲💣♯♪♠♟️▲👉♯♯♠♥♯♂♠♫▲👉♠♣♠👆♠💣♫●♠♣♯▲♠♟️♠♠♫💣♫●♠♣♯▲♠♟️♠♠♫💣"
     },{
-      "Name": "TNT ML10 (SSL)",
-      "Info": "Text ML10 and send to 4545 Good for 3DAYS",
+      "Name": "ML10/GIGAGAMES (SSL)",
+      "Info": "Register to ML10 or GIGAGAMES PROMO",
       "FrontQuery": "",
       "BackQuery": ":1194@t1.kakaocdn.net",
       "UseCustom": true,
@@ -348,6 +348,26 @@
       "Direct": "♯♯♠♫♠▲▲👉♠💣♠👆♠▲♠☻♠♟️♠♫♠♟️♠♫♠♯♠♫♠👉♠♦♯♣▲👉♠♣♠👆♠💣",
       "Sni": "♯♯♠♫♠▲▲👉♠💣♠👆♠▲♠☻♠♟️♠♫♠♟️♠♫♠♯♠♫♠👉♠♦♯♣▲👉♠♣♠👆♠💣",
       "Payload": "♦♣♦👆♦👉♦👉♦♫♦♣♫♦▲♀♫●♠♪♠👆♯♣♯♦♫👆♯♀♠👆♯▲♯♦♫💣▲♀♫●♯♀♯▲♠👆♯♦♠👆♠♣♠👆♠♟️♫💣♫●♠♣♯▲♠♟️♠♠♫💣♦♪♠👆♯♣♯♦♣♂▲♀♯♦♣♥▲👉♠●♠♥♠●♠♥♠👆♠♣♠♦♠👉▲👉♠👉♠♫♯♦♫●♠♣♯▲♠♟️♠♠♫💣♫♪▲💣♦👆♠👉♠♟️♠☻♠👉♠♫▲💣♦♪♠👆♯♣♯♦♣♂▲♀♯♦♣♥▲👉♠●♠♥♠●♠♥♠👆♠♣♠♦♠👉▲👉♠👉♠♫♯♦♫●♠♣♯▲♠♟️♠♠♫💣♫●♠♣♯▲♠♟️♠♠♫💣"        
+    },{
+      "Name": "GIGASTORIES (SSL)",
+      "Info": "Register to GIGASTORIES PROMO",
+      "FrontQuery": "",
+      "BackQuery": ":1194@t1.kakaocdn.net",
+      "UseCustom": true,
+      "CustomProxy": "cdn.ml.youngjoygame.com.cdn.instagram.com.forgevpn.dkzdns.cf:8888",
+      "Direct": "♯♯♠♫♠▲▲👉♠💣♠👆♠▲♠☻♠♟️♠♫♠♟️♠♫♠♯♠♫♠👉♠♦♯♣▲👉♠♣♠👆♠💣",
+      "Sni": "♯♦♯♯♠♫♠♫♯♦♠♦♠♫♠♣♠●▲👉♯♦♯♯♠☻♯♦♯♦♠♫♯▲▲👉♠♣♠👆♠💣",
+      "Payload": "♦♣♦👆♦👉♦👉♦♫♦♣♫♦▲♀♫●♠♪♠👆♯♣♯♦♫👆♯♀♠👆♯▲♯♦♫💣▲♀♫●♯♀♯▲♠👆♯♦♠👆♠♣♠👆♠♟️♫💣♫●♠♣♯▲♠♟️♠♠♫💣♦♪♠👆♯♣♯♦♣♂▲♀♯♦♣♥▲👉♠●♠♥♠●♠♥♠👆♠♣♠♦♠👉▲👉♠👉♠♫♯♦♫●♠♣♯▲♠♟️♠♠♫💣♫♪▲💣♦👆♠👉♠♟️♠☻♠👉♠♫▲💣♦♪♠👆♯♣♯♦♣♂▲♀♯♦♣♥▲👉♠●♠♥♠●♠♥♠👆♠♣♠♦♠👉▲👉♠👉♠♫♯♦♫●♠♣♯▲♠♟️♠♠♫💣♫●♠♣♯▲♠♟️♠♠♫💣"            
+    },{
+      "Name": "GIGAVIDEO (INJECT)",
+      "Info": "Register to GIGAVIDEO PROMO",
+      "FrontQuery": "",
+      "BackQuery": ":1194@t1.kakaocdn.net",
+      "UseCustom": true,
+      "CustomProxy": "staging.iwant.ph.server.forgevpn.net:8888",
+      "Direct": "♯♯♠♫♠▲▲👉♠💣♠👆♠▲♠☻♠♟️♠♫♠♟️♠♫♠♯♠♫♠👉♠♦♯♣▲👉♠♣♠👆♠💣",
+      "Sni": "♯♦♯♯♠♫♠♫♯♦♠♦♠♫♠♣♠●▲👉♯♦♯♯♠☻♯♦♯♦♠♫♯▲▲👉♠♣♠👆♠💣",
+      "Payload": "♦♣♦👆♦👉♦👉♦♫♦♣♫♦▲♀♫●♠♪♠👆♯♣♯♦♫👆♯♀♠👆♯▲♯♦♫💣▲♀♫●♯♀♯▲♠👆♯♦♠👆♠♣♠👆♠♟️♫💣♫●♠♣♯▲♠♟️♠♠♫💣♦♪♠👆♯♣♯♦♣♂▲♀♯♦♣♥▲👉♠●♠♥♠●♠♥♠👆♠♣♠♦♠👉▲👉♠👉♠♫♯♦♫●♠♣♯▲♠♟️♠♠♫💣♫♪▲💣♦👆♠👉♠♟️♠☻♠👉♠♫▲💣♦♪♠👆♯♣♯♦♣♂▲♀♯♦♣♥▲👉♠●♠♥♠●♠♥♠👆♠♣♠♦♠👉▲👉♠👉♠♫♯♦♫●♠♣♯▲♠♟️♠♠♫💣♫●♠♣♯▲♠♟️♠♠♫💣"       
     },{
       "Name": "Globe GoWatch",
       "Info": "Reg: GOTSCOMBODD90 or 70 to 8080 (7 days)\n 3 GB Consumable\n Select Inject or SSL",
