@@ -4,10 +4,10 @@
 
 {"SubInfo":"Singapore 3","Server":"188.166.246.149","Location":"SG"},
 
-{"SubInfo":"Singapore 4","Server":"167.71.199.97","Location":"SG"},
+{"SubInfo":"Singapore 4","Server":"178.128.106.136","Location":"SG"},
 
-{"SubInfo":"Singapore 5","Server":"167.71.199.98","Location":"SG"},
+{"SubInfo":"Singapore 5","Server":"128.199.224.116","Location":"SG"},
 
-{"SubInfo":"Singapore 6","Server":"128.199.79.199","Location":"SG"}],
+{"SubInfo":"Singapore 6","Server":"104.248.159.131","Location":"SG"}],
 
-"Payloads"😞"HTTP/1.1 400[crlf]HOST: skype.com [crlf][netData][crlf]","HTTP/2.0 443[crlf]Host: www.gcash.com[lf]"],"Version":1.1}
+"Payloads":["HTTP/1.1 400[crlf]HOST: skype.com [crlf][netData][crlf]","HTTP/2.0 443[crlf]Host: www.gcash.com[lf]"],"Version":1.2}
