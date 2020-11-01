@@ -8,6 +8,10 @@
 
 {"SubInfo":"Singapore 5","Server":"128.199.224.116","Location":"SG"},
 
-{"SubInfo":"Singapore 6","Server":"104.248.159.131","Location":"SG"}],
+{"SubInfo":"Singapore 6","Server":"104.248.159.131","Location":"SG"},
 
-"Payloads":["HTTP/1.1 400[crlf]HOST: skype.com [crlf][netData][crlf]","HTTP/2.0 443[crlf]Host: www.gcash.com[lf]"],"Version":1.2}
+{"SubInfo":"USA Netflix 1","Server":"185.186.247.198","Location":"SG"},
+
+{"SubInfo":"USA Netflix 2","Server":"185.186.247.203","Location":"SG"}],
+
+"Payloads":["HTTP/1.1 400[crlf]HOST: skype.com [crlf][netData][crlf]","HTTP/2.0 443[crlf]Host: www.gcash.com[lf]"],"Version":1.3}
