@@ -1,6 +1,6 @@
 {
-  "ConfigVersion": 22.3,
-  "ConfigUpdateMsg": " ~ Fixed Servers! \n\n ~ Forge VPN",
+  "ConfigVersion": 22.4,
+  "ConfigUpdateMsg": " ~ Added GIGASTORIES INJECT! \n\n ~ Forge VPN",
   "WarningMsg": "Do not download or streaming \nThis is for Gaming only\nCaught will be ban permanently.",
   "SquidPort": "8888",
   "OpenVpnPort": "1194",
@@ -357,12 +357,22 @@
       "CustomProxy": "cdn.ml.youngjoygame.com.cdn.instagram.com.forgevpn.dkzdns.cf:8888",
       "Direct": "♯♯♠♫♠▲▲👉♠💣♠👆♠▲♠☻♠♟️♠♫♠♟️♠♫♠♯♠♫♠👉♠♦♯♣▲👉♠♣♠👆♠💣",
       "Sni": "♯♦♯♯♠♫♠♫♯♦♠♦♠♫♠♣♠●▲👉♯♦♯♯♠☻♯♦♯♦♠♫♯▲▲👉♠♣♠👆♠💣",
-      "Payload": "♦♣♦👆♦👉♦👉♦♫♦♣♫♦▲♀♫●♠♪♠👆♯♣♯♦♫👆♯♀♠👆♯▲♯♦♫💣▲♀♫●♯♀♯▲♠👆♯♦♠👆♠♣♠👆♠♟️♫💣♫●♠♣♯▲♠♟️♠♠♫💣♦♪♠👆♯♣♯♦♣♂▲♀♯♦♣♥▲👉♠●♠♥♠●♠♥♠👆♠♣♠♦♠👉▲👉♠👉♠♫♯♦♫●♠♣♯▲♠♟️♠♠♫💣♫♪▲💣♦👆♠👉♠♟️♠☻♠👉♠♫▲💣♦♪♠👆♯♣♯♦♣♂▲♀♯♦♣♥▲👉♠●♠♥♠●♠♥♠👆♠♣♠♦♠👉▲👉♠👉♠♫♯♦♫●♠♣♯▲♠♟️♠♠♫💣♫●♠♣♯▲♠♟️♠♠♫💣"            
+      "Payload": "♦♣♦👆♦👉♦👉♦♫♦♣♫♦▲♀♫●♠♪♠👆♯♣♯♦♫👆♯♀♠👆♯▲♯♦♫💣▲♀♫●♯♀♯▲♠👆♯♦♠👆♠♣♠👆♠♟️♫💣♫●♠♣♯▲♠♟️♠♠♫💣♦♪♠👆♯♣♯♦♣♂▲♀♯♦♣♥▲👉♠●♠♥♠●♠♥♠👆♠♣♠♦♠👉▲👉♠👉♠♫♯♦♫●♠♣♯▲♠♟️♠♠♫💣♫♪▲💣♦👆♠👉♠♟️♠☻♠👉♠♫▲💣♦♪♠👆♯♣♯♦♣♂▲♀♯♦♣♥▲👉♠●♠♥♠●♠♥♠👆♠♣♠♦♠👉▲👉♠👉♠♫♯♦♫●♠♣♯▲♠♟️♠♠♫💣♫●♠♣♯▲♠♟️♠♠♫💣"  
+     },{
+      "Name": "GIGASTORIES (INJECT)",
+      "Info": "Register to GIGASTORIES PROMO",
+      "FrontQuery": "",
+      "BackQuery": "",
+      "UseCustom": false,
+      "CustomProxy": "",
+      "Direct": "♯♯♠♫♠▲▲👉♠💣♠👆♠▲♠☻♠♟️♠♫♠♟️♠♫♠♯♠♫♠👉♠♦♯♣▲👉♠♣♠👆♠💣",
+      "Sni": "♯♦♯♯♠♫♠♫♯♦♠♦♠♫♠♣♠●▲👉♯♦♯♯♠☻♯♦♯♦♠♫♯▲▲👉♠♣♠👆♠💣",
+      "Payload": "♦♣♦👆♦👉♦👉♦♫♦♣♫♦▲♀♫●♠♪♠👆♯♣♯♦♫👆♯♀♠👆♯▲♯♦♫💣▲♀♫●♯♀♯▲♠👆♯♦♠👆♠♣♠👆♠♟️♫💣♫●♠♣♯▲♠♟️♠♠♫💣♦♪♠👆♯♣♯♦♣♂▲♀♯♦▲👉♠♣♠👆♫●♠♣♯▲♠♟️♠♠♫💣♫♪▲💣♦👆♠👉♠♟️♠☻♠👉♠♫▲💣♦♪♠👆♯♣♯♦♣♂▲♀♯♦▲👉♠♣♠👆♫●♠♣♯▲♠♟️♠♠♫💣♫♪▲💣♦♠♠👆♯▲♯♯♠♥♯▲♠♦♠♫♠♦▲💣♦♠♠👆♯▲♣♂▲♀♯♦▲👉♠♣♠👆♫●♠♣♯▲♠♟️♠♠♫💣♦♣♠👆♠👉♠👉♠♫♠♣♯♦♠☻♠👆♠👉♣♂▲♀♦●♠♫♠♫♯♀▲💣♦♥♠♟️♠☻♯♠♠♫♫●♠♣♯▲♠♟️♠♠♫💣♫●♠♣♯▲♠♟️♠♠♫💣"                 
     },{
       "Name": "GIGAVIDEO (INJECT)",
       "Info": "Register to GIGAVIDEO PROMO",
       "FrontQuery": "",
-      "BackQuery": ":1194@t1.kakaocdn.net",
+      "BackQuery": "",
       "UseCustom": true,
       "CustomProxy": "staging.iwant.ph.server.forgevpn.net:8888",
       "Direct": "♯♯♠♫♠▲▲👉♠💣♠👆♠▲♠☻♠♟️♠♫♠♟️♠♫♠♯♠♫♠👉♠♦♯♣▲👉♠♣♠👆♠💣",
