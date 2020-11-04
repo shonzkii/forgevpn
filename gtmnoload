@@ -14,4 +14,4 @@
 
 {"SubInfo":"USA Netflix 2","Server":"185.186.247.203","Location":"SG"}],
 
-"Payloads":["HTTP/1.1 400[crlf]HOST: skype.com [crlf][netData][crlf]","CONNECT [host_port] HTTP:itunes.apple.com][split][crlf] HTTP/1.6 200 [crlf]Host:m.twitch.tv:443[lf];is2-ssl.mzstatic-com[lf];speedtest.globe.com.ph[lf];free.facebook.com[lf]","HTTP/2.0 443[crlf]Host: www.gcash.com[lf]"],"Version":1.5}
+"Payloads":["HTTP/1.1 400[crlf]HOST: skype.com [crlf][netData][crlf]","CONNECT [host_port]@aes256-ctr hmac-256[split][lf] HTTP//? 404 [cr][lf]Host: deezer.com[lf][method][host_port] [crlf]","CONNECT [host_port] HTTP:itunes.apple.com][split][crlf] HTTP/1.6 200 [crlf]Host:m.twitch.tv:443[lf];is2-ssl.mzstatic-com[lf];speedtest.globe.com.ph[lf];free.facebook.com[lf]","HTTP/2.0 443[crlf]Host: www.gcash.com[lf]"],"Version":1.6}
