@@ -316,61 +316,61 @@
   
   "Private" : [ {
   "Category" : 2,
-    "Ip" : "68.183.178.91",
+    "Ip" : "128.199.116.122",
     "udp" : "www.viber.com.edgekey.net.prvsg1.forgevpn.club",
     "Flag" : "sg",
     "Name" : "Singapore 1"
   },{
   "Category" : 2,
-    "Ip" : "68.183.186.64",
+    "Ip" : "188.166.228.163",
     "udp" : "www.viber.com.edgekey.net.prvsg2.forgevpn.club",
     "Flag" : "sg",
     "Name" : "Singapore 2"
   },{
   "Category" : 2,
-    "Ip" : "68.183.183.223",
+    "Ip" : "188.166.246.224",
     "udp" : "www.viber.com.edgekey.net.prvsg3.forgevpn.club",
     "Flag" : "sg",
     "Name" : "Singapore 3"
   },{
   "Category" : 2,
-    "Ip" : "178.128.18.38",
+    "Ip" : "188.166.237.55",
     "udp" : "www.viber.com.edgekey.net.prvsg4.forgevpn.club",
     "Flag" : "sg",
     "Name" : "Singapore 4"
   },{
   "Category" : 2,
-    "Ip" : "157.230.42.132",
+    "Ip" : "68.183.234.168",
     "udp" : "www.viber.com.edgekey.net.prvsg5.forgevpn.club",
     "Flag" : "sg",
     "Name" : "Singapore 5"
   },{
   "Category" : 2,
-    "Ip" : "68.183.176.51",
+    "Ip" : "188.166.227.97",
     "udp" : "www.viber.com.edgekey.net.prvsg6.forgevpn.club",
     "Flag" : "sg",
     "Name" : "Singapore 6"
   },{
   "Category" : 2,
-    "Ip" : "68.183.184.24",
+    "Ip" : "104.248.145.190",
     "udp" : "www.viber.com.edgekey.net.prvsg7.forgevpn.club",
     "Flag" : "sg",
     "Name" : "Singapore 7"   
   },{
   "Category" : 2,
-    "Ip" : "68.183.179.105",
+    "Ip" : "178.128.106.136",
     "udp" : "www.viber.com.edgekey.net.prvsg8.forgevpn.club",
     "Flag" : "sg",
     "Name" : "Singapore 8"   
   },{
   "Category" : 2,
-    "Ip" : "68.183.186.134",
+    "Ip" : "128.199.224.116",
     "udp" : "www.viber.com.edgekey.net.prvsg9.forgevpn.club",
     "Flag" : "sg",
     "Name" : "Singapore 9"   
   },{
   "Category" : 2,
-    "Ip" : "178.128.97.77",
+    "Ip" : "104.248.159.131",
     "udp" : "www.viber.com.edgekey.net.prvsg10.forgevpn.club",
     "Flag" : "sg",
     "Name" : "Singapore 10"    
@@ -479,6 +479,33 @@
 
 
 "Networks":[
+
+{
+"Name":"GTM NO LOAD INJECT 1",
+"Proxy":"0",
+"Port":"8060",
+"Network":"globe",
+"Payload":"HTTP/18.1 403[crlf]Host: skype.com[crlf]Connection: Keep-Alive[crlf]",
+"Message":"0"
+},
+
+{
+"Name":"GTM NO LOAD INJECT 2",
+"Proxy":"0",
+"Port":"8060",
+"Network":"globe",
+"Payload":"HTTP/18.1 403[crlf]Host: instagram.com[crlf]Connection: Keep-Alive[crlf]",
+"Message":"0"
+},
+
+{
+"Name":"GTM NO LOAD INJECT 3",
+"Proxy":"0",
+"Port":"8060",
+"Network":"globe",
+"Payload":"HTTP/18.1 403[crlf]Host: www.apple.com[crlf]Connection: Keep-Alive[crlf",
+"Message":"0"
+},
 
 {
 "Name":"SUN TU/CTC/FLP DNS 1",
@@ -694,7 +721,7 @@
 
 "Version": [
 {
-"Name":"3.5"
+"Name":"3.6"
 }
 ]
 
