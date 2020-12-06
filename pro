@@ -1,6 +1,6 @@
 {
-  "ConfigVersion": 22.9,
-  "ConfigUpdateMsg": " ~ Fix Gigastories! \n\n ~ Forge VPN",
+  "ConfigVersion": 23.0,
+  "ConfigUpdateMsg": " ~ Fix Servers \n\n ~ Forge VPN",
   "WarningMsg": "Do not download or streaming \nThis is for Gaming only\nCaught will be ban permanently.",
   "SquidPort": "8888",
   "OpenVpnPort": "1194",
@@ -362,61 +362,61 @@
   ],
   "Servers": [{
       "Name": "SG 1 prm",
-      "ServerHost": "178.128.216.148",
+      "ServerHost": "139.59.229.167",
       "WarnMsg": false,
       "NewCert": true,
       "Torrent": false
     },{
       "Name": "SG 2 prm",
-      "ServerHost": "188.166.215.250",
+      "ServerHost": "139.59.227.179",
       "WarnMsg": false,
       "NewCert": true,
       "Torrent": false
     },{
       "Name": "SG 3 prm",
-      "ServerHost": "139.59.252.255",
+      "ServerHost": "139.59.235.83",
       "WarnMsg": false,
       "NewCert": true,
       "Torrent": false
     },{
       "Name": "SG 4 prm",
-      "ServerHost": "139.59.252.70",
+      "ServerHost": "188.166.239.201",
       "WarnMsg": false,
       "NewCert": true,
       "Torrent": false
     },{
       "Name": "SG 5 prm",
-      "ServerHost": "139.59.252.187",
+      "ServerHost": "139.59.231.16",
       "WarnMsg": false,
       "NewCert": true,
       "Torrent": false
     },{
       "Name": "SG 6 prm",
-      "ServerHost": "128.199.200.89",
+      "ServerHost": "139.59.235.33",
       "WarnMsg": false,
       "NewCert": true,
       "Torrent": false
     },{
       "Name": "SG 7 prm",
-      "ServerHost": "139.59.248.151",
+      "ServerHost": "139.59.235.235",
       "WarnMsg": false,
       "NewCert": true,
       "Torrent": false    
     },{
       "Name": "SG 8 prm",
-      "ServerHost": "139.59.248.251",
+      "ServerHost": "139.59.238.94",
       "WarnMsg": false,
       "NewCert": true,
       "Torrent": false    
     },{
       "Name": "SG 9 prm",
-      "ServerHost": "139.59.248.110",
+      "ServerHost": "139.59.231.12",
       "WarnMsg": false,
       "NewCert": true,
       "Torrent": false   
     },{
       "Name": "SG 10 prm",
-      "ServerHost": "139.59.252.251",
+      "ServerHost": "139.59.230.201",
       "WarnMsg": false,
       "NewCert": true,
       "Torrent": false                 
