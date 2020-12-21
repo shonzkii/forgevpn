@@ -1,5 +1,5 @@
 {
-  "ConfigVersion": 23.0,
+  "ConfigVersion": 23.1,
   "ConfigUpdateMsg": " ~ Fix Servers \n\n ~ Forge VPN",
   "WarningMsg": "Do not download or streaming \nThis is for Gaming only\nCaught will be ban permanently.",
   "SquidPort": "8888",
@@ -422,46 +422,34 @@
       "Torrent": false                 
      },{
       "Name": "IN 1 prm",
-      "ServerHost": "68.183.95.188",
+      "ServerHost": "143.110.189.30",
       "WarnMsg": false,
       "NewCert": true,
       "Torrent": false   
       },{
       "Name": "IN 2 prm",
-      "ServerHost": "68.183.82.116",
+      "ServerHost": "143.110.189.54",
       "WarnMsg": false,
       "NewCert": true,
       "Torrent": false
      },{
       "Name": "IN 3 prm",
-      "ServerHost": "142.93.212.252",
+      "ServerHost": "143.110.189.104",
       "WarnMsg": false,
       "NewCert": true,
       "Torrent": false 
       },{
       "Name": "IN 4 prm",
-      "ServerHost": "142.93.214.70",
+      "ServerHost": "139.59.3.201",
       "WarnMsg": false,
       "NewCert": true,
       "Torrent": false 
      },{
       "Name": "IN 5 prm",
-      "ServerHost": "134.209.146.38",
+      "ServerHost": "143.110.181.210",
       "WarnMsg": false,
       "NewCert": true,
-      "Torrent": false          
-    },{
-      "Name": "RO Netflix 1 prm",
-      "ServerHost": "193.148.68.58",
-      "WarnMsg": false,
-      "NewCert": false,
-      "Torrent": true
-    },{
-      "Name": "RO Netflix 2 prm",
-      "ServerHost": "193.148.68.58",
-      "WarnMsg": false,
-      "NewCert": false,
-      "Torrent": true    
+      "Torrent": false           
     },{
       "Name": "SE 1 prm",
       "ServerHost": "185.61.148.194",
@@ -479,100 +467,64 @@
       "ServerHost": "172.104.46.98",
       "WarnMsg": false,
       "NewCert": true,
-      "Torrent": false                  
-    },{
-      "Name": "IT 1 prm",
-      "ServerHost": "212.237.58.68",
-      "WarnMsg": false,
-      "NewCert": false,
-      "Torrent": true
-    },{
-      "Name": "IT 2 prm",
-      "ServerHost": "31.14.139.121",
-      "WarnMsg": false,
-      "NewCert": false,
-      "Torrent": true
-    },{
-      "Name": "IT 3 prm",
-      "ServerHost": "31.14.140.27",
-      "WarnMsg": false,
-      "NewCert": false,
-      "Torrent": true
-    },{
-      "Name": "IT 4 prm",
-      "ServerHost": "80.211.224.185",
-      "WarnMsg": false,
-      "NewCert": false,
-      "Torrent": true
-    },{
-      "Name": "IT 5 prm",
-      "ServerHost": "212.237.27.7",
-      "WarnMsg": false,
-      "NewCert": false,
-      "Torrent": true 
-    },{
-      "Name": "IT 6 prm",
-      "ServerHost": "31.14.142.216",
-      "WarnMsg": false,
-      "NewCert": false,
-      "Torrent": true       
+      "Torrent": false                    
     },{
       "Name": "SG 1 vip",
-      "ServerHost": "128.199.199.75",
+      "ServerHost": "139.59.238.95",
       "WarnMsg": false,
       "NewCert": false,
       "Torrent": false
     },{
       "Name": "SG 2 vip",
-      "ServerHost": "178.128.212.31",
+      "ServerHost": "174.138.28.0",
       "WarnMsg": false,
       "NewCert": false,
       "Torrent": false
     },{
       "Name": "SG 3 vip",
-      "ServerHost": "128.199.86.47",
+      "ServerHost": "174.138.28.20",
       "WarnMsg": false,
       "NewCert": false,
       "Torrent": false
     },{
       "Name": "SG 4 vip",
-      "ServerHost": "128.199.114.16",
+      "ServerHost": "139.59.238.220",
       "WarnMsg": false,
       "NewCert": true,
       "Torrent": false
     },{
       "Name": "SG 5 vip",
-      "ServerHost": "128.199.118.132",
+      "ServerHost": "188.166.248.17",
       "WarnMsg": false,
       "NewCert": false,
       "Torrent": false
     },{
       "Name": "SG 6 vip",
-      "ServerHost": "128.199.118.132",
+      "ServerHost": "188.166.248.17",
       "WarnMsg": false,
       "NewCert": false,
       "Torrent": false   
     },{
       "Name": "SG 7 vip",
-      "ServerHost": "128.199.118.132",
+      "ServerHost": "188.166.248.17",
       "WarnMsg": false,
       "NewCert": false,
       "Torrent": false    
     },{
       "Name": "SG 8 vip",
-      "ServerHost": "128.199.118.132",
+      "ServerHost": "188.166.248.17",
       "WarnMsg": false,
       "NewCert": false,
       "Torrent": false   
     },{
       "Name": "SG 9 vip",
-      "ServerHost": "128.199.118.132",
+      "ServerHost": "188.166.248.17",
       "WarnMsg": false,
       "NewCert": false,
       "Torrent": false    
     },{
       "Name": "SG 10 vip",
-      "ServerHost": "128.199.118.132",
+      "ServerHost": "188.166.248.17",
       "WarnMsg": false,
       "NewCert": false,
       "Torrent": false                                
@@ -642,36 +594,6 @@
       "WarnMsg": false,
       "NewCert": false,
       "Torrent": false                            
-    },{
-      "Name": "IT 1 vip",
-      "ServerHost": "94.177.163.199",
-      "WarnMsg": false,
-      "NewCert": true,
-      "Torrent": true
-    },{
-      "Name": "IT 2 vip",
-      "ServerHost": "212.237.18.105",
-      "WarnMsg": false,
-      "NewCert": false,
-      "Torrent": true
-    },{
-      "Name": "IT 3 vip",
-      "ServerHost": "94.177.190.151",
-      "WarnMsg": false,
-      "NewCert": false,
-      "Torrent": true
-    },{
-      "Name": "IT 4 vip",
-      "ServerHost": "94.177.160.36",
-      "WarnMsg": false,
-      "NewCert": false,
-      "Torrent": true
-    },{
-      "Name": "IT 5 vip",
-      "ServerHost": "31.14.139.99",
-      "WarnMsg": false,
-      "NewCert": false,
-      "Torrent": true
     },{
       "Name": "SG 1 prv",
       "ServerHost": "128.199.116.122",
@@ -743,13 +665,7 @@
       "ServerHost": "209.97.172.172",
       "WarnMsg": false,
       "NewCert": false,
-      "Torrent": false          
-    },{
-      "Name": "SG SEA Gaming 3 prv",
-      "ServerHost": "68.183.183.163",
-      "WarnMsg": false,
-      "NewCert": false,
-      "Torrent": false                     
+      "Torrent": false                         
     },{
       "Name": "PH 1 Gaming/Netflix/Iflix/IwantTV prv",
       "ServerHost": "103.38.215.236",
@@ -774,54 +690,6 @@
       "WarnMsg": false,
       "NewCert": false,
       "Torrent": true       
-    },{
-      "Name": "IT 1 prv",
-      "ServerHost": "31.14.140.59",
-      "WarnMsg": false,
-      "NewCert": false,
-      "Torrent": true
-    },{
-      "Name": "IT 2 prv",
-      "ServerHost": "212.237.50.22",
-      "WarnMsg": false,
-      "NewCert": false,
-      "Torrent": true
-    },{
-      "Name": "IT 3 prv",
-      "ServerHost": "212.237.31.127",
-      "WarnMsg": false,
-      "NewCert": false,
-      "Torrent": true
-    },{
-      "Name": "IT 4 prv",
-      "ServerHost": "94.177.175.126",
-      "WarnMsg": false,
-      "NewCert": false,
-      "Torrent": true
-    },{
-      "Name": "IT 5 prv",
-      "ServerHost": "212.237.32.9",
-      "WarnMsg": false,
-      "NewCert": false,
-      "Torrent": true
-    },{
-      "Name": "US 1 prv",
-      "ServerHost": "107.173.6.137",
-      "WarnMsg": false,
-      "NewCert": false,
-      "Torrent": true
-    },{
-      "Name": "US 2 prv",
-      "ServerHost": "107.173.102.201",
-      "WarnMsg": false,
-      "NewCert": false,
-      "Torrent": true
-    },{
-      "Name": "US 3 prv",
-      "ServerHost": "107.173.7.109",
-      "WarnMsg": false,
-      "NewCert": false,
-      "Torrent": true   
     }
   ]
 }
