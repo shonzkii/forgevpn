@@ -1,5 +1,5 @@
 {
-  "ConfigVersion": 23.1,
+  "ConfigVersion": 23.2,
   "ConfigUpdateMsg": " ~ Fix Servers \n\n ~ Forge VPN",
   "WarningMsg": "Do not download or streaming \nThis is for Gaming only\nCaught will be ban permanently.",
   "SquidPort": "8888",
@@ -596,61 +596,61 @@
       "Torrent": false                            
     },{
       "Name": "SG 1 prv",
-      "ServerHost": "128.199.116.122",
+      "ServerHost": "139.59.123.221",
       "WarnMsg": false,
       "NewCert": false,
       "Torrent": false
     },{
       "Name": "SG 2 prv",
-      "ServerHost": "188.166.228.163",
+      "ServerHost": "139.59.123.216",
       "WarnMsg": false,
       "NewCert": false,
       "Torrent": false
     },{
       "Name": "SG 3 prv",
-      "ServerHost": "188.166.246.224",
+      "ServerHost": "139.59.123.219",
       "WarnMsg": false,
       "NewCert": false,
       "Torrent": false
     },{
       "Name": "SG 4 prv",
-      "ServerHost": "188.166.237.55",
+      "ServerHost": "139.59.123.218",
       "WarnMsg": false,
       "NewCert": false,
       "Torrent": false
     },{
       "Name": "SG 5 prv",
-      "ServerHost": "68.183.234.168",
+      "ServerHost": "139.59.123.220",
       "WarnMsg": false,
       "NewCert": false,
       "Torrent": false
     },{
       "Name": "SG 6 prv",
-      "ServerHost": "188.166.227.97",
+      "ServerHost": "139.59.123.215",
       "WarnMsg": false,
       "NewCert": false,
       "Torrent": false
     },{
       "Name": "SG 7 prv",
-      "ServerHost": "104.248.145.190",
+      "ServerHost": "139.59.123.222",
       "WarnMsg": false,
       "NewCert": false,
       "Torrent": false
     },{
       "Name": "SG 8 prv",
-      "ServerHost": "178.128.106.136",
+      "ServerHost": "139.59.123.229",
       "WarnMsg": false,
       "NewCert": false,
       "Torrent": false         
     },{
       "Name": "SG 9 prv",
-      "ServerHost": "128.199.224.116",
+      "ServerHost": "139.59.123.224",
       "WarnMsg": false,
       "NewCert": false,
       "Torrent": false   
     },{
       "Name": "SG 10 prv",
-      "ServerHost": "104.248.159.131",
+      "ServerHost": "139.59.123.226",
       "WarnMsg": false,
       "NewCert": false,
       "Torrent": false                        
