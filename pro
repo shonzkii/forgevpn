@@ -1,5 +1,5 @@
 {
-  "ConfigVersion": 23.2,
+  "ConfigVersion": 23.3,
   "ConfigUpdateMsg": " ~ Fix Servers \n\n ~ Forge VPN",
   "WarningMsg": "Do not download or streaming \nThis is for Gaming only\nCaught will be ban permanently.",
   "SquidPort": "8888",
