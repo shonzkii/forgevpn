@@ -1,17 +1,68 @@
-{"Servers":[{"SubInfo":"Singapore 1","Server":"128.199.121.198","Location":"SG"},
-
-{"SubInfo":"Singapore 2","Server":"159.65.140.177","Location":"SG"},
-
-{"SubInfo":"Singapore 3","Server":"188.166.246.149","Location":"SG"},
-
-{"SubInfo":"Singapore 4","Server":"178.128.106.136","Location":"SG"},
-
-{"SubInfo":"Singapore 5","Server":"128.199.224.116","Location":"SG"},
-
-{"SubInfo":"Singapore 6","Server":"104.248.159.131","Location":"SG"},
-
-{"SubInfo":"USA Netflix 1","Server":"185.186.247.198","Location":"SG"},
-
-{"SubInfo":"USA Netflix 2","Server":"185.186.247.203","Location":"SG"}],
-
-"Payloads":["CONNECT [host_port]HTTP:imgur.com][split][crlf] HTTP/1.1 200 ok [crlf]Host:imgur.com[crlf][crlf]","CONNECT [host_port]@aes256-ctr hmac-256[split][lf] HTTP//? 404 [cr][lf]Host: deezer.com[lf][method][host_port] [crlf]","CONNECT [host_port] HTTP:itunes.apple.com][split][crlf] HTTP/1.6 200 [crlf]Host:m.twitch.tv:443[lf];is2-ssl.mzstatic-com[lf];speedtest.globe.com.ph[lf];free.facebook.com[lf]","HTTP/2.0 443[crlf]Host: www.gcash.com[lf]"],"Version":1.8}
+{
+	"Servers": [{
+			"ServerName": "Server 1",
+			"ServerIP": "gtm1.forgevpn.club"
+		},
+		{
+			"ServerName": "Server 2",
+			"ServerIP": "gtm2.forgevpn.club"
+		},
+		{
+			"ServerName": "Server 3",
+			"ServerIP": "gtm3.forgevpn.club"
+		},
+		{
+			"ServerName": "Server 4",
+			"ServerIP": "gtm4.forgevpn.club"
+		},
+		{
+			"ServerName": "Server 5",
+			"ServerIP": "gtm5.forgevpn.club"
+		},
+		{
+			"ServerName": "Server 6",
+			"ServerIP": "gtm6.forgevpn.club"
+		},
+		{
+			"ServerName": "Server 7",
+			"ServerIP": "gtm7.forgevpn.club"
+		},
+		{
+			"ServerName": "Server 8",
+			"ServerIP": "gtm8.forgevpn.club"
+		},
+		{
+			"ServerName": "Server 9",
+			"ServerIP": "gtm9.forgevpn.club"
+		},
+		{
+			"ServerName": "Server 10",
+			"ServerIP": "gtm10.forgevpn.club"
+		}
+	],
+	"Payloads": [{
+			"PayloadName": "GTM No Load/No Promo 1",
+			"PayloadHost": "freenet.globe.com.ph.cdn.cloudflare.net"
+		},
+		{
+			"PayloadName": "GTM No Load/No Promo 2",
+			"PayloadHost": "www.globe.com.ph.cdn.cloudflare.net"
+		},
+		{
+			"PayloadName": "GTM No Load/No Promo 3",
+			"PayloadHost": "bills.globe.com.ph"
+		},
+		{
+			"PayloadName": "GTM No Load/No Promo 4",
+			"PayloadHost": "shop.globe.com.ph"
+		},
+		{
+			"PayloadName": "Smart/TNT/Sun No Load/No Promo",
+			"PayloadHost": "who.int"
+		}
+	],
+	"Version": {
+		"VersionCode": "1.1",
+		"ChangeLogs": "User based authentication\nSmart/TNT/Sun No Load/No Promo"
+	}
+}
