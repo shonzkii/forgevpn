@@ -1,5 +1,5 @@
 {
-  "ConfigVersion": 23.4,
+  "ConfigVersion": 23.5,
   "ConfigUpdateMsg": " ~ Fix Servers \n\n ~ Forge VPN",
   "WarningMsg": "Do not download or streaming \nThis is for Gaming only\nCaught will be ban permanently.",
   "SquidPort": "8888",
@@ -362,61 +362,61 @@
   ],
   "Servers": [{
       "Name": "SG 1 prm",
-      "ServerHost": "139.59.229.167",
+      "ServerHost": "192.46.231.192",
       "WarnMsg": false,
       "NewCert": true,
       "Torrent": false
     },{
       "Name": "SG 2 prm",
-      "ServerHost": "139.59.227.179",
+      "ServerHost": "192.53.114.116",
       "WarnMsg": false,
       "NewCert": true,
       "Torrent": false
     },{
       "Name": "SG 3 prm",
-      "ServerHost": "139.59.235.83",
+      "ServerHost": "192.53.116.72",
       "WarnMsg": false,
       "NewCert": true,
       "Torrent": false
     },{
       "Name": "SG 4 prm",
-      "ServerHost": "188.166.239.201",
+      "ServerHost": "172.104.190.142",
       "WarnMsg": false,
       "NewCert": true,
       "Torrent": false
     },{
       "Name": "SG 5 prm",
-      "ServerHost": "139.59.231.16",
+      "ServerHost": "139.162.55.94",
       "WarnMsg": false,
       "NewCert": true,
       "Torrent": false
     },{
       "Name": "SG 6 prm",
-      "ServerHost": "139.59.235.33",
+      "ServerHost": "172.104.178.73",
       "WarnMsg": false,
       "NewCert": true,
       "Torrent": false
     },{
       "Name": "SG 7 prm",
-      "ServerHost": "139.59.235.235",
+      "ServerHost": "172.104.57.139",
       "WarnMsg": false,
       "NewCert": true,
       "Torrent": false    
     },{
       "Name": "SG 8 prm",
-      "ServerHost": "139.59.238.94",
+      "ServerHost": "192.53.113.16",
       "WarnMsg": false,
       "NewCert": true,
       "Torrent": false    
     },{
       "Name": "SG 9 prm",
-      "ServerHost": "139.59.231.12",
+      "ServerHost": "192.53.118.235",
       "WarnMsg": false,
       "NewCert": true,
       "Torrent": false   
     },{
       "Name": "SG 10 prm",
-      "ServerHost": "139.59.230.201",
+      "ServerHost": "192.46.228.179",
       "WarnMsg": false,
       "NewCert": true,
       "Torrent": false                 
