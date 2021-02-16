@@ -1,61 +1,61 @@
 {
   "Premium" : [ {
     "Category" : 0,
-    "Ip" : "139.59.229.167",
+    "Ip" : "192.46.231.192",
 	"udp" : "www.viber.com.edgekey.net.prmsg1.forgevpn.club",
     "Flag" : "sg",
     "Name" : "Singapore 1"
   },{
    "Category" : 0,
-    "Ip" : "139.59.227.179",
+    "Ip" : "192.53.114.116",
     "udp" : "www.viber.com.edgekey.net.prmsg2.forgevpn.club",
     "Flag" : "sg",
     "Name" : "Singapore 2"
  },{
    "Category" : 0,
-    "Ip" : "139.59.235.83",
+    "Ip" : "192.53.116.72",
     "udp" : "www.viber.com.edgekey.net.prmsg3.forgevpn.club",
     "Flag" : "sg",
     "Name" : "Singapore 3"
   },{
    "Category" : 0,
-    "Ip" : "188.166.239.201",
+    "Ip" : "172.104.190.142",
     "udp" : "www.viber.com.edgekey.net.prmsg4.forgevpn.club",
     "Flag" : "sg",
     "Name" : "Singapore 4"
   },{
    "Category" : 0,
-    "Ip" : "139.59.231.16",
+    "Ip" : "139.162.55.94",
     "udp" : "www.viber.com.edgekey.net.prmsg5.forgevpn.club",
     "Flag" : "sg",
     "Name" : "Singapore 5"
   },{
    "Category" : 0,
-    "Ip" : "139.59.235.33",
+    "Ip" : "172.104.178.73",
     "udp" : "www.viber.com.edgekey.net.prmsg6.forgevpn.club",
     "Flag" : "sg",
     "Name" : "Singapore 6"      
   },{
    "Category" : 0,
-    "Ip" : "139.59.235.235",
+    "Ip" : "172.104.57.139",
     "udp" : "www.viber.com.edgekey.net.prmsg7.forgevpn.club",
     "Flag" : "sg",
     "Name" : "Singapore 7"    
   },{
    "Category" : 0,
-    "Ip" : "139.59.238.94",
+    "Ip" : "192.53.113.16",
     "udp" : "www.viber.com.edgekey.net.prmsg8.forgevpn.club",
     "Flag" : "sg",
     "Name" : "Singapore 8"  
   },{
    "Category" : 0,
-    "Ip" : "139.59.231.12",
+    "Ip" : "192.53.118.235",
     "udp" : "www.viber.com.edgekey.net.prmsg9.forgevpn.club",
     "Flag" : "sg",
     "Name" : "Singapore 9"    
   },{
    "Category" : 0,
-    "Ip" : "139.59.230.201",
+    "Ip" : "192.46.228.179",
     "udp" : "www.viber.com.edgekey.net.prmsg10.forgevpn.club",
     "Flag" : "sg",
     "Name" : "Singapore 10"     
@@ -109,61 +109,61 @@
    
    
    "Category" : 1,
-    "Ip" : "139.59.238.95",
+    "Ip" : "68.183.106.210",
     "udp" : "www.viber.com.edgekey.net.vipsg1.forgevpn.club",
     "Flag" : "sg",
     "Name" : " Singapore 1 "
   },{	
 	"Category" : 1,
-    "Ip" : "174.138.28.0",
+    "Ip" : "68.183.106.237",
     "udp" : "www.viber.com.edgekey.net.vipsg2.forgevpn.club",
     "Flag" : "sg",
     "Name" : " Singapore 2 "
   },{	
 	"Category" : 1,
-    "Ip" : "174.138.28.20",
+    "Ip" : "68.183.106.253",
     "udp" : "www.viber.com.edgekey.net.vipsg3.forgevpn.club",
     "Flag" : "sg",
     "Name" : " Singapore 3 "
   },{	
 	"Category" : 1,
-    "Ip" : "139.59.238.220",
+    "Ip" : "68.183.106.253",
     "udp" : "www.viber.com.edgekey.net.vipsg4.forgevpn.club",
     "Flag" : "sg",
     "Name" : " Singapore 4"
   },{	
 	"Category" : 1,
-    "Ip" : "188.166.248.17",
+    "Ip" : "68.183.106.253",
     "udp" : "www.viber.com.edgekey.net.vipsg5.forgevpn.club",
     "Flag" : "sg",
     "Name" : " Singapore 5 "
   },{	
 	"Category" : 1,
-    "Ip" : "188.166.248.17",
+    "Ip" : "68.183.106.253",
     "udp" : "www.viber.com.edgekey.net.vipsg6.forgevpn.club",
     "Flag" : "sg",
     "Name" : " Singapore 6"     
   },{	
 	"Category" : 1,
-    "Ip" : "188.166.248.17",
+    "Ip" : "68.183.106.253",
     "udp" : "www.viber.com.edgekey.net.vipsg7.forgevpn.club",
     "Flag" : "sg",
     "Name" : " Singapore 7"     
    },{	
 	"Category" : 1,
-    "Ip" : "188.166.248.17",
+    "Ip" : "68.183.106.253",
     "udp" : "www.viber.com.edgekey.net.vipsg8.forgevpn.club",
     "Flag" : "sg",
     "Name" : " Singapore 8"   
   },{	
 	"Category" : 1,
-    "Ip" : "188.166.248.17",
+    "Ip" : "68.183.106.253",
     "udp" : "www.viber.com.edgekey.net.vipsg9.forgevpn.club",
     "Flag" : "sg",
     "Name" : " Singapore 9"   
   },{	
 	"Category" : 1,
-    "Ip" : "188.166.248.17",
+    "Ip" : "68.183.106.253",
     "udp" : "www.viber.com.edgekey.net.vipsg10.forgevpn.club",
     "Flag" : "sg",
     "Name" : " Singapore 10"    
@@ -217,112 +217,70 @@
     "Name" : "Netflix USA 2"      
   },{
   "Category" : 1,
-    "Ip" : "185.186.246.18",
-    "udp" : "0",
-    "Flag" : "us",
-    "Name" : "Netflix Amsterdam" 
-  },{
-  "Category" : 1,
     "Ip" : "103.38.215.236",
     "udp" : "0",
     "Flag" : "ph",
-    "Name" : "Philippines Netflix/Iflix/IwantTV"     
-   },{
-  "Category" : 1,
-    "Ip" : "94.177.163.199",
-    "udp" : "0",
-    "Flag" : "it",
-    "Name" : "Italy 1"  
-  },{
-  "Category" : 1,
-    "Ip" : "212.237.18.105",
-    "udp" : "0",
-    "Flag" : "it",
-    "Name" : "Italy 2"  
-  },{
-  "Category" : 1,
-    "Ip" : "94.177.190.151",
-    "udp" : "0",
-    "Flag" : "it",
-    "Name" : "Italy 3"  
-  },{
-  "Category" : 1,
-    "Ip" : "94.177.160.36",
-    "udp" : "0",
-    "Flag" : "it",
-    "Name" : "Italy 4"  
-  },{
-  "Category" : 1,
-    "Ip" : "31.14.139.99",
-    "udp" : "0",
-    "Flag" : "it",
-    "Name" : "Italy 5"   
-  },{
-  "Category" : 1,
-    "Ip" : "80.211.141.37",
-    "udp" : "0",
-    "Flag" : "it",
-    "Name" : "Italy 6"                
+    "Name" : "Philippines Netflix/Iflix/IwantTV"                 
                    
   }],
   
   "Private" : [ {
   "Category" : 2,
-    "Ip" : "128.199.116.122",
+    "Ip" : "68.183.102.22",
     "udp" : "www.viber.com.edgekey.net.prvsg1.forgevpn.club",
     "Flag" : "sg",
     "Name" : "Singapore 1"
   },{
   "Category" : 2,
-    "Ip" : "188.166.228.163",
+    "Ip" : "68.183.105.138",
     "udp" : "www.viber.com.edgekey.net.prvsg2.forgevpn.club",
     "Flag" : "sg",
     "Name" : "Singapore 2"
   },{
   "Category" : 2,
-    "Ip" : "188.166.246.224",
+    "Ip" : "68.183.105.169",
     "udp" : "www.viber.com.edgekey.net.prvsg3.forgevpn.club",
     "Flag" : "sg",
     "Name" : "Singapore 3"
   },{
   "Category" : 2,
-    "Ip" : "188.166.237.55",
+    "Ip" : "167.99.2.129",
     "udp" : "www.viber.com.edgekey.net.prvsg4.forgevpn.club",
     "Flag" : "sg",
     "Name" : "Singapore 4"
   },{
   "Category" : 2,
-    "Ip" : "68.183.234.168",
+    "Ip" : "142.93.125.245",
     "udp" : "www.viber.com.edgekey.net.prvsg5.forgevpn.club",
     "Flag" : "sg",
     "Name" : "Singapore 5"
   },{
   "Category" : 2,
-    "Ip" : "188.166.227.97",
+    "Ip" : "142.93.125.245",
     "udp" : "www.viber.com.edgekey.net.prvsg6.forgevpn.club",
     "Flag" : "sg",
     "Name" : "Singapore 6"
   },{
   "Category" : 2,
-    "Ip" : "104.248.145.190",
+    "Ip" : "142.93.125.245",
     "udp" : "www.viber.com.edgekey.net.prvsg7.forgevpn.club",
     "Flag" : "sg",
     "Name" : "Singapore 7"   
   },{
   "Category" : 2,
-    "Ip" : "178.128.106.136",
+    "Ip" : "142.93.125.245",
     "udp" : "www.viber.com.edgekey.net.prvsg8.forgevpn.club",
     "Flag" : "sg",
     "Name" : "Singapore 8"   
   },{
   "Category" : 2,
-    "Ip" : "128.199.224.116",
+    "Ip" : "142.93.125.245",
     "udp" : "www.viber.com.edgekey.net.prvsg9.forgevpn.club",
     "Flag" : "sg",
     "Name" : "Singapore 9"   
   },{
   "Category" : 2,
-    "Ip" : "104.248.159.131",
+    "Ip" : "142.93.125.245",
     "udp" : "www.viber.com.edgekey.net.prvsg10.forgevpn.club",
     "Flag" : "sg",
     "Name" : "Singapore 10"    
@@ -346,12 +304,6 @@
     "Name" : "Netflix USA 2"      
   },{
   "Category" : 2,
-    "Ip" : "185.186.246.18",
-    "udp" : "0",
-    "Flag" : "us",
-    "Name" : "Netflix Amsterdam" 
-  },{
-  "Category" : 2,
     "Ip" : "103.38.215.236",
     "udp" : "0",
     "Flag" : "ph",
@@ -361,37 +313,7 @@
     "Ip" : "103.38.215.26",
     "udp" : "0",
     "Flag" : "ph",
-    "Name" : "Philippines Netflix/Iflix/IwantTV 2"          
-  },{
-  "Category" : 2,
-    "Ip" : "31.14.140.59",
-    "udp" : "0",
-    "Flag" : "it",
-    "Name" : "Italy 1"  
-  },{
-  "Category" : 2,
-    "Ip" : "212.237.50.22",
-    "udp" : "0",
-    "Flag" : "it",
-    "Name" : "Italy 2"  
-  },{
-  "Category" : 2,
-    "Ip" : "212.237.31.127",
-    "udp" : "0",
-    "Flag" : "it",
-    "Name" : "Italy 3"  
-  },{
-  "Category" : 2,
-    "Ip" : "94.177.175.126",
-    "udp" : "0",
-    "Flag" : "it",
-    "Name" : "Italy 4"  
-  },{
-  "Category" : 2,
-    "Ip" : "212.237.32.9",
-    "udp" : "0",
-    "Flag" : "it",
-    "Name" : "Italy 5"              
+    "Name" : "Philippines Netflix/Iflix/IwantTV 2"                    
   },{
   "Category" : 2,
     "Ip" : "68.183.183.207",
@@ -403,13 +325,7 @@
     "Ip" : "68.183.183.207",
     "udp" : "www.viber.com.edgekey.net.prv-gaming2.forgevpn.club",
     "Flag" : "sg",
-    "Name" : "Singapore Gaming 2"   
-  },{
-  "Category" : 2,
-    "Ip" : "68.183.183.207",
-    "udp" : "www.viber.com.edgekey.net.prv-gaming3.forgevpn.club",
-    "Flag" : "sg",
-    "Name" : "Singapore Gaming 3"                                                                
+    "Name" : "Singapore Gaming 2"                                                                
   }
   ],
   
@@ -433,49 +349,13 @@
 "Networks":[
 
 {
-"Name":"GTM NO LOAD INJECT 1",
+"Name":"GIGASTORIES",
 "Proxy":"0",
-"Port":"8060",
-"Network":"globe",
-"Payload":"HTTP/2.0 200 ok[crlf]Host: tv.com[crlf][crlf]",
+"Port":"8080",
+"Network":"smart",
+"Payload":"CONNECT [host_port] [protocol][crlf]Host: static.muscdn.com[[crlf]X-Online-Host: static.muscdn.com[[crlf]X-Forward-Host: static.muscdn.com[[crlf]Connection: Keep-Alive[crlf]User-Agent: Mozilla/5.0 (Linux; Android 4.4.2; SAMSUNG-SM-T537A Build/KOT49H) AppleWebKit/537.36 (KHTML like Gecko) Chrome/35.0.1916.141 Safari/537.36[crlf][crlf]",
 "Message":"0"
-},
-
-{
-"Name":"GTM NO LOAD INJECT 2",
-"Proxy":"0",
-"Port":"8060",
-"Network":"globe",
-"Payload":"HTTP/2.0 200 ok[crlf]Host: imgur.com[crlf][crlf]",
-"Message":"0"
-},
-
-{
-"Name":"GTM NO LOAD INJECT 3",
-"Proxy":"0",
-"Port":"8060",
-"Network":"globe",
-"Payload":"HTTP/2.0 200 ok[crlf]Host: static.stumblr.com[crlf][crlf]",
-"Message":"0"
-},
-
-{
-"Name":"GTM NO LOAD INJECT 4",
-"Proxy":"0",
-"Port":"8060",
-"Network":"globe",
-"Payload":"HTTP/2.0 200 ok[crlf]Host: plus.google.com[crlf][crlf]",
-"Message":"0"
-},
-
-{
-"Name":"GTM NO LOAD INJECT 5",
-"Proxy":"0",
-"Port":"8060",
-"Network":"globe",
-"Payload":"HTTP/2.8 200 ok[crlf]Host: plus.google.com[crlf][crlf]",
-"Message":"0"
-},
+},	
 
 {
 "Name":"SUN TU/CTC/FLP DNS 1",
@@ -568,15 +448,6 @@
 },	
 
 {
-"Name":"GIGASTORIES",
-"Proxy":"0",
-"Port":"8080",
-"Network":"smart",
-"Payload":"CONNECT [host_port] [protocol][crlf]Host: static.muscdn.com[[crlf]X-Online-Host: static.muscdn.com[[crlf]X-Forward-Host: static.muscdn.com[[crlf]Connection: Keep-Alive[crlf]User-Agent: Mozilla/5.0 (Linux; Android 4.4.2; SAMSUNG-SM-T537A Build/KOT49H) AppleWebKit/537.36 (KHTML like Gecko) Chrome/35.0.1916.141 Safari/537.36[crlf][crlf]",
-"Message":"0"
-},	
-
-{
 "Name":"Globe/TM Promo",
 "Proxy":"0",
 "Port":"8080",
@@ -592,7 +463,7 @@
 
 "Version": [
 {
-"Name":"3.9"
+"Name":"4.0"
 }
 ]
 
