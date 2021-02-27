@@ -1,61 +1,61 @@
 {
   "Premium" : [ {
     "Category" : 0,
-    "Ip" : "192.46.231.192",
+    "Ip" : "159.65.3.98",
 	"udp" : "www.viber.com.edgekey.net.prmsg1.forgevpn.club",
     "Flag" : "sg",
     "Name" : "Singapore 1"
   },{
    "Category" : 0,
-    "Ip" : "192.53.114.116",
+    "Ip" : "178.128.212.82",
     "udp" : "www.viber.com.edgekey.net.prmsg2.forgevpn.club",
     "Flag" : "sg",
     "Name" : "Singapore 2"
  },{
    "Category" : 0,
-    "Ip" : "192.53.116.72",
+    "Ip" : "206.189.153.159",
     "udp" : "www.viber.com.edgekey.net.prmsg3.forgevpn.club",
     "Flag" : "sg",
     "Name" : "Singapore 3"
   },{
    "Category" : 0,
-    "Ip" : "172.104.190.142",
+    "Ip" : "178.128.19.102",
     "udp" : "www.viber.com.edgekey.net.prmsg4.forgevpn.club",
     "Flag" : "sg",
     "Name" : "Singapore 4"
   },{
    "Category" : 0,
-    "Ip" : "139.162.55.94",
+    "Ip" : "206.189.43.194",
     "udp" : "www.viber.com.edgekey.net.prmsg5.forgevpn.club",
     "Flag" : "sg",
     "Name" : "Singapore 5"
   },{
    "Category" : 0,
-    "Ip" : "172.104.178.73",
+    "Ip" : "178.128.27.79",
     "udp" : "www.viber.com.edgekey.net.prmsg6.forgevpn.club",
     "Flag" : "sg",
     "Name" : "Singapore 6"      
   },{
    "Category" : 0,
-    "Ip" : "172.104.57.139",
+    "Ip" : "209.97.165.28",
     "udp" : "www.viber.com.edgekey.net.prmsg7.forgevpn.club",
     "Flag" : "sg",
     "Name" : "Singapore 7"    
   },{
    "Category" : 0,
-    "Ip" : "192.53.113.16",
+    "Ip" : "178.128.30.141",
     "udp" : "www.viber.com.edgekey.net.prmsg8.forgevpn.club",
     "Flag" : "sg",
     "Name" : "Singapore 8"  
   },{
    "Category" : 0,
-    "Ip" : "192.53.118.235",
+    "Ip" : "159.89.200.152",
     "udp" : "www.viber.com.edgekey.net.prmsg9.forgevpn.club",
     "Flag" : "sg",
     "Name" : "Singapore 9"    
   },{
    "Category" : 0,
-    "Ip" : "192.46.228.179",
+    "Ip" : "178.128.19.234",
     "udp" : "www.viber.com.edgekey.net.prmsg10.forgevpn.club",
     "Flag" : "sg",
     "Name" : "Singapore 10"     
@@ -463,7 +463,7 @@
 
 "Version": [
 {
-"Name":"4.0"
+"Name":"4.1"
 }
 ]
 
