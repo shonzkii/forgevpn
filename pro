@@ -1,5 +1,5 @@
 {
-  "ConfigVersion": 23.6,
+  "ConfigVersion": 23.8,
   "ConfigUpdateMsg": " ~ Fix Servers \n\n ~ Forge VPN",
   "WarningMsg": "Do not download or streaming \nThis is for Gaming only\nCaught will be ban permanently.",
   "SquidPort": "8888",
@@ -362,61 +362,61 @@
   ],
   "Servers": [{
       "Name": "SG 1 prm",
-      "ServerHost": "159.65.3.98",
+      "ServerHost": "174.138.19.138",
       "WarnMsg": false,
       "NewCert": true,
       "Torrent": false
     },{
       "Name": "SG 2 prm",
-      "ServerHost": "178.128.212.82",
+      "ServerHost": "139.59.237.84",
       "WarnMsg": false,
       "NewCert": true,
       "Torrent": false
     },{
       "Name": "SG 3 prm",
-      "ServerHost": "206.189.153.159",
+      "ServerHost": "139.59.97.254",
       "WarnMsg": false,
       "NewCert": true,
       "Torrent": false
     },{
       "Name": "SG 4 prm",
-      "ServerHost": "178.128.19.102",
+      "ServerHost": "174.138.19.130",
       "WarnMsg": false,
       "NewCert": true,
       "Torrent": false
     },{
       "Name": "SG 5 prm",
-      "ServerHost": "206.189.43.194",
+      "ServerHost": "174.138.26.200",
       "WarnMsg": false,
       "NewCert": true,
       "Torrent": false
     },{
       "Name": "SG 6 prm",
-      "ServerHost": "178.128.27.79",
+      "ServerHost": "174.138.19.134",
       "WarnMsg": false,
       "NewCert": true,
       "Torrent": false
     },{
       "Name": "SG 7 prm",
-      "ServerHost": "209.97.165.28",
+      "ServerHost": "174.138.19.131",
       "WarnMsg": false,
       "NewCert": true,
       "Torrent": false    
     },{
       "Name": "SG 8 prm",
-      "ServerHost": "178.128.30.141",
+      "ServerHost": "174.138.19.132",
       "WarnMsg": false,
       "NewCert": true,
       "Torrent": false    
     },{
       "Name": "SG 9 prm",
-      "ServerHost": "159.89.200.152",
+      "ServerHost": "174.138.30.10",
       "WarnMsg": false,
       "NewCert": true,
       "Torrent": false   
     },{
       "Name": "SG 10 prm",
-      "ServerHost": "178.128.19.234",
+      "ServerHost": "139.59.117.89",
       "WarnMsg": false,
       "NewCert": true,
       "Torrent": false                 
@@ -470,61 +470,61 @@
       "Torrent": false                    
     },{
       "Name": "SG 1 vip",
-      "ServerHost": "68.183.106.210",
+      "ServerHost": "174.138.19.134",
       "WarnMsg": false,
       "NewCert": false,
       "Torrent": false
     },{
       "Name": "SG 2 vip",
-      "ServerHost": "68.183.106.237",
+      "ServerHost": "174.138.19.131",
       "WarnMsg": false,
       "NewCert": false,
       "Torrent": false
     },{
       "Name": "SG 3 vip",
-      "ServerHost": "68.183.106.253",
+      "ServerHost": "174.138.19.132",
       "WarnMsg": false,
       "NewCert": false,
       "Torrent": false
     },{
       "Name": "SG 4 vip",
-      "ServerHost": "68.183.106.253",
+      "ServerHost": "174.138.30.10",
       "WarnMsg": false,
       "NewCert": true,
       "Torrent": false
     },{
       "Name": "SG 5 vip",
-      "ServerHost": "68.183.106.253",
+      "ServerHost": "139.59.117.89",
       "WarnMsg": false,
       "NewCert": false,
       "Torrent": false
     },{
       "Name": "SG 6 vip",
-      "ServerHost": "68.183.106.253",
+      "ServerHost": "174.138.19.134",
       "WarnMsg": false,
       "NewCert": false,
       "Torrent": false   
     },{
       "Name": "SG 7 vip",
-      "ServerHost": "68.183.106.253",
+      "ServerHost": "174.138.19.131",
       "WarnMsg": false,
       "NewCert": false,
       "Torrent": false    
     },{
       "Name": "SG 8 vip",
-      "ServerHost": "68.183.106.253",
+      "ServerHost": "174.138.19.132",
       "WarnMsg": false,
       "NewCert": false,
       "Torrent": false   
     },{
       "Name": "SG 9 vip",
-      "ServerHost": "68.183.106.253",
+      "ServerHost": "174.138.30.10",
       "WarnMsg": false,
       "NewCert": false,
       "Torrent": false    
     },{
       "Name": "SG 10 vip",
-      "ServerHost": "68.183.106.253",
+      "ServerHost": "139.59.117.89",
       "WarnMsg": false,
       "NewCert": false,
       "Torrent": false                                
@@ -596,61 +596,61 @@
       "Torrent": false                            
     },{
       "Name": "SG 1 prv",
-      "ServerHost": "68.183.102.22",
+      "ServerHost": "174.138.19.134",
       "WarnMsg": false,
       "NewCert": false,
       "Torrent": false
     },{
       "Name": "SG 2 prv",
-      "ServerHost": "68.183.105.138",
+      "ServerHost": "174.138.19.131",
       "WarnMsg": false,
       "NewCert": false,
       "Torrent": false
     },{
       "Name": "SG 3 prv",
-      "ServerHost": "68.183.105.169",
+      "ServerHost": "174.138.19.132",
       "WarnMsg": false,
       "NewCert": false,
       "Torrent": false
     },{
       "Name": "SG 4 prv",
-      "ServerHost": "167.99.2.129",
+      "ServerHost": "174.138.30.10",
       "WarnMsg": false,
       "NewCert": false,
       "Torrent": false
     },{
       "Name": "SG 5 prv",
-      "ServerHost": "142.93.125.245",
+      "ServerHost": "139.59.117.89",
       "WarnMsg": false,
       "NewCert": false,
       "Torrent": false
     },{
       "Name": "SG 6 prv",
-      "ServerHost": "142.93.125.245",
+      "ServerHost": "174.138.19.134",
       "WarnMsg": false,
       "NewCert": false,
       "Torrent": false
     },{
       "Name": "SG 7 prv",
-      "ServerHost": "142.93.125.245",
+      "ServerHost": "174.138.19.131",
       "WarnMsg": false,
       "NewCert": false,
       "Torrent": false
     },{
       "Name": "SG 8 prv",
-      "ServerHost": "142.93.125.245",
+      "ServerHost": "174.138.19.132",
       "WarnMsg": false,
       "NewCert": false,
       "Torrent": false         
     },{
       "Name": "SG 9 prv",
-      "ServerHost": "142.93.125.245",
+      "ServerHost": "174.138.30.10",
       "WarnMsg": false,
       "NewCert": false,
       "Torrent": false   
     },{
       "Name": "SG 10 prv",
-      "ServerHost": "142.93.125.245",
+      "ServerHost": "139.59.117.89",
       "WarnMsg": false,
       "NewCert": false,
       "Torrent": false                        
