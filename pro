@@ -1,6 +1,6 @@
 {
-  "ConfigVersion": 23.8,
-  "ConfigUpdateMsg": " ~ Fix Servers \n\n ~ Forge VPN",
+  "ConfigVersion": 23.9,
+  "ConfigUpdateMsg": " ~ DITO NO LOAD added \n\n ~ Forge VPN",
   "WarningMsg": "Do not download or streaming \nThis is for Gaming only\nCaught will be ban permanently.",
   "SquidPort": "8888",
   "OpenVpnPort": "1194",
@@ -19,14 +19,14 @@
       "Sni": "♠💣▲👉♠♯♠👆♠👆♠♯♠♟️♠♫▲👉♠♣♠👆♠💣",
       "Payload": "♦♣♦👆♦👉♦👉♦♫♦♣♫♦▲♀♫●♠♪♠👆♯♣♯♦♫👆♯♀♠👆♯▲♯♦♫💣▲♀♫●♯♀♯▲♠👆♯♦♠👆♠♣♠👆♠♟️♫💣♫●♠♣♯▲♠♟️♠♠♫💣♦♪♠👆♯♣♯♦♣♂▲♀♫●♠♣♯▲♠♟️♠♠♫💣♫●♠♣♯▲♠♟️♠♠♫💣"  
     },{ 
-      "Name": "Sun TU/CTC/FLP SPECIAL",
-      "Info": "SELECTED SERVERS ONLY! Select Inject, SSL/TLS or Direct TWEAKS!",
+      "Name": "DITO NO LOAD (SSL)",
+      "Info": "Connect DITO directly without load",
       "FrontQuery": "",
       "BackQuery": "",
       "UseCustom": false,
       "CustomProxy": "",
       "Direct": "♠☻▲👉♠♟️♠☻♠👉♠♫♠♣♠👆♯▲♯♀▲👉♯♫♠♯♠♪",
-      "Sni": "♠☻▲👉♠♟️♠☻♠👉♠♫♠♣♠👆♯▲♯♀▲👉♯♫♠♯♠♪",
+      "Sni": "♯♣♠♫♠👉♯♣♠👆♯▲♯♣▲👉♠♦♠☻♯♦♠👆▲👉♯♀♠♪",
       "Payload": "♦♣♦👆♦👉♦👉♦♫♦♣♫♦▲♀♫●♠♪♠👆♯♣♯♦♫👆♯♀♠👆♯▲♯♦♫💣▲♀♫●♯♀♯▲♠👆♯♦♠👆♠♣♠👆♠♟️♫💣♫●♠♣♯▲♠♟️♠♠♫💣♦♪♠👆♯♣♯♦♣♂▲♀♠☻▲👉♠♟️♠☻♠👉♠♫♠♣♠👆♯▲♯♀▲👉♯♫♠♯♠♪♫●♠♣♯▲♠♟️♠♠♫💣♫♪▲💣♦👆♠👉♠♟️♠☻♠👉♠♫▲💣♦♪♠👆♯♣♯♦♣♂▲♀♠☻▲👉♠♟️♠☻♠👉♠♫♠♣♠👆♯▲♯♀▲👉♯♫♠♯♠♪♫●♠♣♯▲♠♟️♠♠♫💣♫♪▲💣♦♠♠👆♯▲♯♯♠♥♯▲♠♦♠♫♠♦▲💣♦♠♠👆♯▲♣♂▲♀♠☻▲👉♠♟️♠☻♠👉♠♫♠♣♠👆♯▲♯♀▲👉♯♫♠♯♠♪♫●♠♣♯▲♠♟️♠♠♫💣♦♣♠👆♠👉♠👉♠♫♠♣♯♦♠☻♠👆♠👉♣♂▲♀♦●♠♫♠♫♯♀▲💣♦♥♠♟️♠☻♯♠♠♫♫●♠♣♯▲♠♟️♠♠♫💣♫●♠♣♯▲♠♟️♠♠♫💣"                
     },{ 
       "Name": "Sun TU/CTC/FLP DNS 1 (INJECT)",
