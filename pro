@@ -1,6 +1,6 @@
 {
-  "ConfigVersion": 23.9,
-  "ConfigUpdateMsg": " ~ DITO NO LOAD added \n\n ~ Forge VPN",
+  "ConfigVersion": 24.0,
+  "ConfigUpdateMsg": " ~ DITO NO LOAD fixed \n\n ~ Forge VPN",
   "WarningMsg": "Do not download or streaming \nThis is for Gaming only\nCaught will be ban permanently.",
   "SquidPort": "8888",
   "OpenVpnPort": "1194",
@@ -26,7 +26,7 @@
       "UseCustom": false,
       "CustomProxy": "",
       "Direct": "♠☻▲👉♠♟️♠☻♠👉♠♫♠♣♠👆♯▲♯♀▲👉♯♫♠♯♠♪",
-      "Sni": "♯♣♠♫♠👉♯♣♠👆♯▲♯♣▲👉♠♦♠☻♯♦♠👆▲👉♯♀♠♪",
+      "Sni": "♯♯♯♯♯♯▲👉♠♦♠☻♯♦♠👆▲👉♯♀♠♪",
       "Payload": "♦♣♦👆♦👉♦👉♦♫♦♣♫♦▲♀♫●♠♪♠👆♯♣♯♦♫👆♯♀♠👆♯▲♯♦♫💣▲♀♫●♯♀♯▲♠👆♯♦♠👆♠♣♠👆♠♟️♫💣♫●♠♣♯▲♠♟️♠♠♫💣♦♪♠👆♯♣♯♦♣♂▲♀♠☻▲👉♠♟️♠☻♠👉♠♫♠♣♠👆♯▲♯♀▲👉♯♫♠♯♠♪♫●♠♣♯▲♠♟️♠♠♫💣♫♪▲💣♦👆♠👉♠♟️♠☻♠👉♠♫▲💣♦♪♠👆♯♣♯♦♣♂▲♀♠☻▲👉♠♟️♠☻♠👉♠♫♠♣♠👆♯▲♯♀▲👉♯♫♠♯♠♪♫●♠♣♯▲♠♟️♠♠♫💣♫♪▲💣♦♠♠👆♯▲♯♯♠♥♯▲♠♦♠♫♠♦▲💣♦♠♠👆♯▲♣♂▲♀♠☻▲👉♠♟️♠☻♠👉♠♫♠♣♠👆♯▲♯♀▲👉♯♫♠♯♠♪♫●♠♣♯▲♠♟️♠♠♫💣♦♣♠👆♠👉♠👉♠♫♠♣♯♦♠☻♠👆♠👉♣♂▲♀♦●♠♫♠♫♯♀▲💣♦♥♠♟️♠☻♯♠♠♫♫●♠♣♯▲♠♟️♠♠♫💣♫●♠♣♯▲♠♟️♠♠♫💣"                
     },{ 
       "Name": "Sun TU/CTC/FLP DNS 1 (INJECT)",
