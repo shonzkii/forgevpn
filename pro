@@ -1,6 +1,5 @@
-
 {
-  "ConfigVersion": 24.7,
+  "ConfigVersion": 24.8,
   "ConfigUpdateMsg": " ~ Added GTM NO load \n\n ~ Forge VPN",
   "WarningMsg": "Do not download or streaming \nThis is for Gaming only\nCaught will be ban permanently.",
   "SquidPort": "8888",
