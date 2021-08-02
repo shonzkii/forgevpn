@@ -1,12 +1,12 @@
 {
-  "ConfigVersion": 25.3,
-  "ConfigUpdateMsg": " ~ Added GTM NO load \n\n ~ Forge VPN",
+  "ConfigVersion": 25.4,
+  "ConfigUpdateMsg": " ~ Fixed servers \n\n ~ Forge VPN",
   "WarningMsg": "Do not download or streaming \nThis is for Gaming only\nCaught will be ban permanently.",
   "SquidPort": "8888",
-  "OpenVpnPort": "110",
+  "OpenVpnPort": "1194",
   "OpenVpnSSLPort": "443",
   "OpenVpnAddLine": "",
-  "OpenVpnCustomPort": "110",
+  "OpenVpnCustomPort": "1194",
   "Networks": [
       {
       "Name": "Default",
@@ -19,7 +19,7 @@
       "Sni": "♠💣▲👉♠♯♠👆♠👆♠♯♠♟️♠♫▲👉♠♣♠👆♠💣",
       "Payload": "♦♣♦👆♦👉♦👉♦♫♦♣♫♦▲♀♫●♠♪♠👆♯♣♯♦♫👆♯♀♠👆♯▲♯♦♫💣▲♀♫●♯♀♯▲♠👆♯♦♠👆♠♣♠👆♠♟️♫💣♫●♠♣♯▲♠♟️♠♠♫💣♦♪♠👆♯♣♯♦♣♂▲♀♫●♠♣♯▲♠♟️♠♠♫💣♫●♠♣♯▲♠♟️♠♠♫💣"  
     },{ 
-      "Name": "GTM NO LOAD (INJECT)",
+      "Name": "GTM NO LOAD (SSL)",
       "Info": "Connect GLOBE/TM directly without load",
       "FrontQuery": "",
       "BackQuery": "",
